@@ -1,4 +1,5 @@
-t request to parse API's
+#!/usr/bin/python3
+''' Test request to parse API's
 '''
 import csv
 import json
